@@ -1,3 +1,4 @@
+[
     {
       "id": 1,
       "coffee_thumbnails": "./caffe_latte_thumbnail.png",
@@ -68,3 +69,4 @@
       "coffee_detail": "Mocha sauce, Frappuccino roast coffee, milk and ice all come together for a mocha flavor that'll leave you wanting more.",
       "coffee_poster": "./mocha_frappuccino_poster.jpg"
     }
+]
