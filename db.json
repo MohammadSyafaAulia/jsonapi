@@ -1,4 +1,4 @@
-const lists = [
+[
   {
     id: 1,
     coffee_thumbnails: require('./caffe_latte_poster.jpg'),
@@ -69,4 +69,5 @@ const lists = [
     coffee_detail: "Mocha sauce, Frappuccino roast coffee, milk and ice all come together for a mocha flavor that'll leave you wanting more.",
     coffee_poster: require('./mocha_frappuccino_poster.jpg'),
     },
-];
+]
+
